@@ -1,5 +1,5 @@
 <script setup>
-import pageData from '@/data/index.json'
+Paiges/index.vue '@/data/index.json'
 const page = ref(pageData)
 
 definePageMeta({
